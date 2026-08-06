@@ -3,7 +3,7 @@ import { supabase } from '../supabaseClient';
 
 // ─── DADOS DA VAGA ────────────────────────────────────────────────
 const VAGA = {
-  cargo: 'Biomédica Esteta',
+  cargo: 'Biomédica',
   cliente: 'Espaço Suzuki Estética',
   local: 'Campo Grande / MS',
   contratacao: 'PJ — pagamento por execução de serviços',
